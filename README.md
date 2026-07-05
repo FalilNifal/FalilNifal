@@ -147,23 +147,24 @@ I actively use AI and productivity tools to speed up development, research, desi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FalilNifal&show_icons=true&theme=tokyonight&hide_border=true" alt="Falil Nifal GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FalilNifal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Falil Nifal GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalilNifal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Falil Nifal top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalilNifal&theme=tokyonight&hide_border=true" alt="Falil Nifal GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalilNifal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FalilNifal&theme=tokyonight&hide_border=true" alt="Falil Nifal GitHub streak" />
 </p>
 
 ---
 
-## 🌌 Contribution Universe
+## 🕹️ Contribution Universe
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FalilNifal&theme=react-dark&hide_border=true" alt="Falil Nifal GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FalilNifal/FalilNifal/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FalilNifal/FalilNifal/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FalilNifal/FalilNifal/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
