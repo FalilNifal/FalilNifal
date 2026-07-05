@@ -1,7 +1,6 @@
 <!--
   GitHub Profile README for Falil Nifal
-  Place this README.md inside a public repository named exactly: FalilNifal
-  Keep the image inside: assets/cosmic-skill-map.png
+  Repository name must be exactly: FalilNifal
 -->
 
 <p align="center">
@@ -147,12 +146,26 @@ I actively use AI and productivity tools to speed up development, research, desi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FalilNifal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Falil Nifal GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalilNifal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Falil Nifal top languages" />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=FalilNifal&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" 
+    alt="Falil Nifal GitHub stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FalilNifal&theme=tokyonight&hide_border=true" alt="Falil Nifal GitHub streak" />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalilNifal&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" 
+    alt="Falil Nifal top languages" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=FalilNifal&amp;theme=tokyonight&amp;hide_border=true" 
+    alt="Falil Nifal GitHub streak" 
+  />
 </p>
 
 ---
@@ -166,6 +179,20 @@ I actively use AI and productivity tools to speed up development, research, desi
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FalilNifal/FalilNifal/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+<!--
+If you prefer the snake version instead of Pac-Man, replace the section above with this:
+
+## 🐍 Contribution Universe
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FalilNifal/FalilNifal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FalilNifal/FalilNifal/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/FalilNifal/FalilNifal/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+-->
 
 ---
 
