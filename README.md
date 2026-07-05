@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="assets/cosmic-skill-map.png" alt="Falil Nifal Cosmic Skill Map" width="100%" />
+  <img src="cosmic-skill-map.png" alt="Falil Nifal Cosmic Skill Map" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Falil Nifal 👋</h1>
